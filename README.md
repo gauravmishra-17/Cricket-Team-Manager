@@ -22,7 +22,7 @@ I still have to -
 2) remove a player from the list
 3) add more details to player - ODI Career (Total Runs/Wickets, Strike Rate, Economy (if he’s a bowler))
 
-I aim to complete the whole project by 4 in the evening
+
 
 # App screen before signing in
 
