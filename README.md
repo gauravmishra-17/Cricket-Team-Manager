@@ -32,8 +32,8 @@ I still have to -
 
 # App screen after signing up
 
+![WhatsApp Image 2020-10-07 at 1 33 15 PM](https://user-images.githubusercontent.com/32004692/95304194-df0f2280-08a1-11eb-86df-b8dd2b1a558c.jpeg)
 
-![WhatsApp Image 2020-10-07 at 12 49 58 PM](https://user-images.githubusercontent.com/32004692/95299727-cc91ea80-089b-11eb-8436-0b225d20bf08.jpeg)
 
 
 # App screen showing error becuse of false validation
