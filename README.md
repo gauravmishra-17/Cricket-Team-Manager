@@ -23,11 +23,12 @@ I have added the functionality of -
 
 I have used -
 1)Provider Package - for state management. This helps in managing the state of logged in or logged out
+
 2)Used a Model class to manage the Player details  - Name, Type(Batsman/Bowler), Age
 
 I still have to -
 1) work on the UI of the app
 2) remove a player from the list
-3) Add more details to player - ODI Career (Total Runs/Wickets, Strike Rate, Economy (if he’s a bowler))
+3) add more details to player - ODI Career (Total Runs/Wickets, Strike Rate, Economy (if he’s a bowler))
 
 I aim to complete the whole project by 4 in the evening
