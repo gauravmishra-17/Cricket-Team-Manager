@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
   final AuthService _auth = AuthService();
-  String email = "";
-  String password = "";
-  String error = "";
+  final String email = "";
+  final String password = "";
+  final String error = "";
   @override
   Widget build(BuildContext context) {
     return Scaffold(

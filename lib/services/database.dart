@@ -17,6 +17,10 @@ class DatabaseService {
     });
   }
 
+  Future deletePlayer() async {
+    return await teamCollection.doc(uid).delete();
+  }
+
   List<Player> _playerListFromSnapshot(QuerySnapshot snapshot) {
     return snapshot.docs.map((doc) {
       return Player(

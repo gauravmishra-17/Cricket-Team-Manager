@@ -1,4 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:cricket_team/models/Player.dart';
 import 'package:cricket_team/screens/home/player_card.dart';
 import 'package:flutter/material.dart';

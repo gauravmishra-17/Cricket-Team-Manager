@@ -38,4 +38,9 @@ class AuthService {
   Future signOut() async {
     return await _auth.signOut();
   }
+
+  //delete a user
+  Future deleteUser() async {
+    return await _auth.currentUser.delete();
+  }
 }
